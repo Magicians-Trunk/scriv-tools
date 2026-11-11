@@ -382,7 +382,7 @@ packages:
     resolution: {integrity: sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==}
 
   '@magicians/config@https://codeload.github.com/Magicians-Trunk/config/tar.gz/477ef4144eb0462a65f5f68a707d51a020026034':
-    resolution: {gitHosted: true, integrity: sha512-dsrcDZoilAUz+1v4knaV3zzWJNic4MJATLWMKf5uyR6Ix0y5Obl5NL3MJ4Fwt0Vo7R0XkMssVr5FaUCKzZIkvQ==, tarball: https://codeload.github.com/Magicians-Trunk/config/tar.gz/477ef4144eb0462a65f5f68a707d51a020026034}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/Magicians-Trunk/config/tar.gz/477ef4144eb0462a65f5f68a707d51a020026034}
     version: 0.1.0
     peerDependencies:
       '@vitest/coverage-v8': 5.0.5
