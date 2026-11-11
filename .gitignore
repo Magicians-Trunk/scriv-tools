@@ -24,3 +24,14 @@ __pycache__/
 .ruff_cache/
 .pytest_cache/
 .coverage
+# What Scrivener writes per person and per session in ScrivTools.scriv, never committed.
+/ScrivTools.scriv/Files/user.lock
+/ScrivTools.scriv/Files/binder.autosave
+/ScrivTools.scriv/Files/binder.backup
+/ScrivTools.scriv/Files/search.indexes
+/ScrivTools.scriv/Files/writing.history
+/ScrivTools.scriv/QuickLook/Preview.html
+/ScrivTools.scriv/Settings/recents.txt
+/ScrivTools.scriv/Settings/ui-common.xml
+/ScrivTools.scriv/Settings/ui.plist
+/ScrivTools.scriv/Snapshots/*/snapshot.indexes
