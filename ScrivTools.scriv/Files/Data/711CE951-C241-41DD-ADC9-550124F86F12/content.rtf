@@ -1,0 +1,75 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Menlo-Regular;}
+{\colortbl;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\'95;}{\levelnumbers;}\fi-360\li720\lin720}{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\uc0
+\pard\sa280\pardirnatural\partightenfactor0
+
+\f0 \fs26 \cf0 <$ScrKeepWithNext>
+\fs40 \b <$Scr_H::1><$Scr_Ps::0>scriv-tools\
+
+\plain \f0 \fs26 \cf0 <!$Scr_H::1><!$Scr_Ps::0>Reads, edits and compiles Scrivener 3 projects.  Its compile writes MultiMarkdown as Scrivener's own MultiMarkdown compile writes it, so a project compiles with no Scrivener installed, or open.\
+<$ScrKeepWithNext>
+\fs34 \b <$Scr_H::2><$Scr_Ps::1>Installing\
+\pard\li360\pardirnatural\partightenfactor0
+
+\plain \f1 \fs22 \cf0 <!$Scr_H::2><!$Scr_Ps::1><$Scr_Ps::2>npm install scriv-tools\
+\pard\sa280\pardirnatural\partightenfactor0
+
+\f0 \fs26 <!$Scr_Ps::2>The package holds the <$Scr_Cs::3>
+\f1 \fs22 scriv-tools
+\f0 \fs26 <!$Scr_Cs::3> command and the library.  <$Scr_Cs::3>
+\f1 \fs22 npx scriv-tools --help
+\f0 \fs26 <!$Scr_Cs::3> lists the commands, and <$Scr_Cs::3>
+\f1 \fs22 --help
+\f0 \fs26 <!$Scr_Cs::3> after a command shows its options.\
+<$ScrKeepWithNext>
+\fs34 \b <$Scr_H::2><$Scr_Ps::1>The Command Line\
+
+\plain \f0 \fs26 \cf0 <!$Scr_H::2><!$Scr_Ps::1>Every command but <$Scr_Cs::3>
+\f1 \fs22 new
+\f0 \fs26 <!$Scr_Cs::3> takes the project first: the <$Scr_Cs::3>
+\f1 \fs22 .scriv
+\f0 \fs26 <!$Scr_Cs::3> folder, or the <$Scr_Cs::3>
+\f1 \fs22 .scrivx
+\f0 \fs26 <!$Scr_Cs::3> file inside it.  The commands that work on items name them with a selector: <$Scr_Cs::3>
+\f1 \fs22 id:<ID>
+\f0 \fs26 <!$Scr_Cs::3>, <$Scr_Cs::3>
+\f1 \fs22 path:<binder path>
+\f0 \fs26 <!$Scr_Cs::3> or <$Scr_Cs::3>
+\f1 \fs22 field:<field ID>=<value>
+\f0 \fs26 <!$Scr_Cs::3>, then, to narrow to part of the items, <$Scr_Cs::3>
+\f1 \fs22 heading:<text>
+\f0 \fs26 <!$Scr_Cs::3> for a section or <$Scr_Cs::3>
+\f1 \fs22 text:<text>
+\f0 \fs26 <!$Scr_Cs::3> for paragraphs.\
+\pard\sa280\pardirnatural\partightenfactor0\ls1\ilvl0
+{\listtext	\'95	}new - Creates a blank project, with styles and a compile format of its own.\
+{\listtext	\'95	}compile - Compiles the Draft folder with a compile format, the one last used unless another is named, to the screen or to a file, with its images beside the file.\
+{\listtext	\'95	}structure - Shows the binder as JSON.\
+{\listtext	\'95	}read - Shows one document's text, as the compile would write it.\
+{\listtext	\'95	}find - Lists the items a selector names, with their IDs, binder paths and titles.\
+{\listtext	\'95	}export - Writes items to a Markdown file and a JSON file to edit.  Markdown is for text, headings, lists, quotes and code, and the JSON form, each item's paragraphs as typed data, is for everything else.  After each item's own words comes its compiled text, read only, so the edit shows what the compile will make of it.\
+{\listtext	\'95	}import - Takes an edited export back into its items and saves them.  It writes nothing if any change cannot be made, and refuses an item whose compiled text was changed.\
+{\listtext	\'95	}ingest - Takes a Markdown file or folder in under an item.  A file updates its item, changing only what differs, or becomes a new one, and a folder becomes a folder.\
+{\listtext	\'95	}files - Shows the project's other files as JSON.\
+{\listtext	\'95	}snapshots - Shows an item's snapshots, and can take a new one first.\
+{\listtext	\'95	}add - Adds a text or a folder under an item.\
+{\listtext	\'95	}move - Moves an item under another.\
+{\listtext	\'95	}trash - Moves an item to the Trash.\
+{\listtext	\'95	}set - Changes an item's title, synopsis, notes, label, status, section type, a custom field, or whether the compile includes it.  Only what is given changes.\
+{\listtext	\'95	}formats - Lists the compile formats it can find.\
+\pard\sa280\pardirnatural\partightenfactor0
+<$ScrKeepWithNext>
+\fs34 \b <$Scr_H::2><$Scr_Ps::1>The Library\
+
+\plain \f0 \fs26 \cf0 <!$Scr_H::2><!$Scr_Ps::1>The same package is a TypeScript library.  It reads a project into typed models: the binder, the documents, the styles, the compile settings and the compile format.  A program can change them and save them back as Scrivener writes them, and only the files that changed are written.  Every file is made before any is written, so a save that cannot be made writes nothing.  The compile reads only the models, so changed models compile as Scrivener would compile the changed project.\
+<$ScrKeepWithNext>
+\fs34 \b <$Scr_H::2><$Scr_Ps::1>While Scrivener Has the Project Open\
+
+\plain \f0 \fs26 \cf0 <!$Scr_H::2><!$Scr_Ps::1>Scrivener keeps an open project in memory, and can save over changes made beside it.  It leaves a lock in the project while it has it open, and every command that saves warns of the lock, then saves.  Close the project in Scrivener before changing it.\
+<$ScrKeepWithNext>
+\fs34 \b <$Scr_H::2><$Scr_Ps::1>License\
+
+\plain \f0 \fs26 \cf0 <!$Scr_H::2><!$Scr_Ps::1>Apache-2.0.}
