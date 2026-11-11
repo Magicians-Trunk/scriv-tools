@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="F87E98ED-DAD3-4FCB-88C8-2D810B1BCDEF" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="MacBook-Pro-2" Author="" Modified="2026-10-31 02:54:29 -0400" ModID="EC160484-F700-4030-94B2-C09E45386844">
+    <Binder>
+        <BinderItem UUID="54BD443B-FDCA-4C73-9679-A884A57E09E6" Type="DraftFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000001" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Placeholders</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000101" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Dates now</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000102" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Binder dates</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000002" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Stats</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000103" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Numbering ahn</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000104" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>ahn one</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000105" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>ahn deep</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000106" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>ahn two</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000107" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>ahn plain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000108" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>ahn three</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000109" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Numbering aon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000110" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>aon one</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000111" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>aon deep</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000112" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>aon two</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000113" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>aon plain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000114" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>aon three</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000115" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Numbering hn_0</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000116" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_0 one</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000117" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>hn_0 deep</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000118" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_0 two</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000119" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_0 plain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000120" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_0 three</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000121" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Numbering hn_level1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000122" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_level1 one</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000123" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>hn_level1 deep</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000124" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_level1 two</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000125" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_level1 plain</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000126" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>hn_level1 three</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000133" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Text</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000134" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Nested lists</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000135" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Line breaks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000136" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Footnotes kept</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000137" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Annotations kept</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000138" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Comments kept</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000139" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Preserve formatting</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000140" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Struck text</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000141" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Links</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000142" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Heading on list item</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000143" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Deleted style</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000144" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Filtered out</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000145" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Tables</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000146" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Vertical merge</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000147" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Two paragraph cell</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000148" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Justified cell</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000149" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Uneven rows</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000150" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Layouts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000151" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Metadata</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000001</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000152" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Title Prefix</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000002</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000153" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Two Hashes</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000003</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000154" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>No Hashes</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000004</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000155" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Uppercase</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000005</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000156" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Run In</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000006</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000157" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Hashes Inside</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000007</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000158" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Page Break</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000008</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000159" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>Page Break child</Title>
+                                    <MetaData>
+                                        <SectionType>D1000000-0000-4000-8000-000000000008</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000160" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Custom Break</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000009</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000161" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>Custom Break child</Title>
+                                    <MetaData>
+                                        <SectionType>D1000000-0000-4000-8000-000000000009</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000162" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>After Override</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000010</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000163" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>After Override child</Title>
+                                    <MetaData>
+                                        <SectionType>D1000000-0000-4000-8000-000000000010</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000164" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Padding</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000011</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000165" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Upper Words</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000012</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000166" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Placement</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000013</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A0000000-0000-4000-8000-000000000167" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                                    <Title>Placement child</Title>
+                                    <MetaData>
+                                        <SectionType>D1000000-0000-4000-8000-000000000013</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000168" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Blank Lines</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000014</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0000000-0000-4000-8000-000000000169" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Metadata labelled</Title>
+                            <MetaData>
+                                <SectionType>D1000000-0000-4000-8000-000000000001</SectionType>
+                                <LabelID>2</LabelID>
+                                <StatusID>3</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A0000000-0000-4000-8000-000000000003" Type="Folder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="A0000000-0000-4000-8000-000000000170" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Title page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F7F83D60-67F9-4376-8809-BDA40812DE26" Type="ResearchFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="4F10738F-C495-497B-A9CA-54E763702CE1" Type="TrashFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5DA9FF7E-F81A-4813-83F4-5AE8A46533B1" Color="0.112547 0.112547 0.112547">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="E933D95D-EE24-4548-8C22-46372BCB0B42" Color="0.190666 0.172707 0.216531">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">Heading</Type>
+            <Type ID="0AC65ACC-AF13-41C3-B22D-161220936660">Sub-Heading</Type>
+            <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">Section</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000001">Metadata</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000002">Title Prefix</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000003">Two Hashes</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000004">No Hashes</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000005">Uppercase</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000006">Run In</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000007">Hashes Inside</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000008">Page Break</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000009">Custom Break</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000010">After Override</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000011">Padding</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000012">Upper Words</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000013">Placement</Type>
+            <Type ID="D1000000-0000-4000-8000-000000000014">Blank Lines</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>C6B39E90-02BC-4B4B-AFC7-77CE685FD644</Type>
+            </Folders>
+            <Containers>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Containers>
+            <Files>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Red</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Yellow</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Green</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Blue</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-10-31 01:13:02 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-11-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-10-31 02:54:17 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2026-10-31 01:13:02 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

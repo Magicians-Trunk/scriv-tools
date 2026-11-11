@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="176A1A5B-A3BC-4C7E-9272-6C9B533AE700">
+            <Title>Own value by ID</Title>
+            <Text>G &lt;$custom:shortcut&gt; end</Text>
+        </Document>
+        <Document ID="A2000000-0000-4000-8000-000000000001">
+            <Title>Target</Title>
+            <Text>Target text.</Text>
+        </Document>
+        <Document ID="F7493C4F-F7B0-40DA-8A69-13BCD77AF038">
+            <Title>Plain link</Title>
+            <Text>A &lt;$custom:shortcut&gt; end</Text>
+        </Document>
+        <Document ID="2835F64E-4CC3-4912-AF4C-9E6DB61B2C4D">
+            <Title>Labels in a Mac-only run</Title>
+            <Text>D pre &lt;$custom:shortcut&gt; post</Text>
+        </Document>
+        <Document ID="223C5161-3E93-4348-B760-F756CBFFD231">
+            <Title>Two links in a Mac-only run</Title>
+            <Text>F pre &lt;$custom:shortcut&gt; and &lt;$custom:shortcut&gt; post</Text>
+        </Document>
+        <Document ID="4F603897-1209-43C9-9B8F-32049639E7E4">
+            <Title>Mac style in the link</Title>
+            <Text>C &lt;$custom:shortcut&gt; end</Text>
+        </Document>
+        <Document ID="A2000000-0000-4000-8000-000000000002">
+            <Title>Other</Title>
+            <Text>Other text.</Text>
+        </Document>
+        <Document ID="56FAA0FE-35E4-4E3E-A738-568C1893230D">
+            <Title>Own value by title</Title>
+            <Text>H &lt;$custom:MacShortcut&gt; end</Text>
+        </Document>
+        <Document ID="C7F29A63-26CD-44C0-AA0D-DFC5545107CF">
+            <Title>Mac style in a Mac-only run</Title>
+            <Text>E pre &lt;$custom:shortcut&gt; post</Text>
+        </Document>
+        <Document ID="4CDF74F9-7EAB-41F4-8A29-E712833732FF">
+            <Title>Labels in the link</Title>
+            <Text>B &lt;$custom:shortcut&gt; end</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>E933D95D-EE24-4548-8C22-46372BCB0B42</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <ConvertLinksToMMD>Yes</ConvertLinksToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Follow-ups Fixture</ProjectTitle>
+            <ProjectAbbreviatedTitle>Follow-ups Fixture</ProjectAbbreviatedTitle>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>mmd</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="F9000000-0000-4000-8000-000000000001">
+            <SectionLayouts>
+                <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">5D5311C4-9CD0-493B-9EFE-E02F0AFF341D</Type>
+                <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">5D5311C4-9CD0-493B-9EFE-E02F0AFF341D</Type>
+                <Type ID="777AFC95-4C25-4DE0-8A53-A9DCA900926F">5D5311C4-9CD0-493B-9EFE-E02F0AFF341D</Type>
+                <Type ID="23A014CE-CA3F-4876-AF61-0C94115BE33E">91737383-F94D-4945-BF7D-E5D7048D89DA</Type>
+                <Type ID="1439C614-2926-46A5-9945-9DC058EBF6B9">1A0ABF8C-E4E0-45DF-85B4-BBE6AEE2B88D</Type>
+                <Type ID="0B9F0EE9-27F1-489F-9C0C-3869B697F8DC">A9D162EB-9EDA-460A-83E1-A62B9116AF34</Type>
+                <Type ID="E9A77503-3113-4359-8AB9-17B00259EE1C">D9F8B2E3-78A3-406E-961E-15764C6FFF60</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <mmd>F9000000-0000-4000-8000-000000000001</mmd>
+    </LastUsedFormats>
+</CompileSettings>

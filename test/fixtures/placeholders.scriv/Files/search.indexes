@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="FEDA67A2-C273-49B6-B43C-C8FFDAA6944A">
+            <Title>Loose</Title>
+            <Text>&lt;$parenttitle&gt;|&lt;$level1_title&gt;|&lt;$position&gt;|&lt;$subDocCount&gt;</Text>
+        </Document>
+        <Document ID="F75B6CEA-7F59-4B68-9720-267A67C3B702">
+            <Title>Chapter One</Title>
+            <Synopsis>A synopsis line</Synopsis>
+            <Text>n: &lt;$n&gt;, &lt;$n&gt;, &lt;$n&gt;
+sn: &lt;$n&gt; (&lt;$sn&gt;, &lt;$sn&gt;), &lt;$n&gt; (&lt;$sn&gt;)
+r R l L: &lt;$r&gt; &lt;$r&gt; &lt;$R&gt; &lt;$l&gt; &lt;$l&gt; &lt;$L&gt;
+w W t: &lt;$w&gt; &lt;$w&gt; &lt;$W&gt; &lt;$t&gt;
+rst: &lt;$w&gt;, &lt;$rst&gt;&lt;$w&gt;, &lt;$rst_n&gt;&lt;$n&gt;
+named: &lt;$n:fig&gt; &lt;$n:fig&gt; &lt;$n#fig&gt; &lt;$n:tab&gt; &lt;$n:figure:a&gt; &lt;$n:figure:b&gt; &lt;$n:figure:a&gt;
+vars: &lt;$title&gt;|&lt;$parenttitle&gt;|&lt;$title_no_spaces&gt;|&lt;$parenttitle_no_spaces&gt;|&lt;$level1_title&gt;|&lt;$level2_title&gt;|&lt;$position&gt;|&lt;$parentposition&gt;|&lt;$label&gt;|&lt;$status&gt;|&lt;$synopsis&gt;|&lt;$subDocCount&gt;|&lt;$descendantCount&gt;
+dates: &lt;$createdDate:yyyy-MM-dd&gt; &lt;$modifiedDate:yyyy-MM-dd HH:mm&gt;
+user: &lt;$forename&gt;|&lt;$surname&gt;|&lt;$initial&gt;|&lt;$fullname&gt;|&lt;$FULLNAME&gt;|&lt;$compilegroup&gt;|&lt;$draftname&gt;|&lt;$PROJECTTITLE&gt;|&lt;$abbr_title&gt;
+escape: \&lt;$n&gt; and \\&lt;$n&gt;</Text>
+        </Document>
+        <Document ID="153A38FD-FA5D-47CF-880A-F4CF7069B205">
+            <Title>Part One</Title>
+        </Document>
+        <Document ID="D37BC84E-E4C3-426F-8178-F3642892F72E">
+            <Title>Chapter Two</Title>
+            <Text>n &lt;$n&gt;, pos &lt;$position&gt; of &lt;$parenttitle&gt;</Text>
+        </Document>
+        <Document ID="34269483-F93F-4A96-938D-727BCE369280">
+            <Title>Section A</Title>
+            <Text>&lt;$level1_title&gt; / &lt;$level2_title&gt; / &lt;$title&gt;, pos &lt;$position&gt;, parent pos &lt;$parentposition&gt;</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <ConvertLinksToMMD>Yes</ConvertLinksToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>headings</ProjectTitle>
+            <ProjectAbbreviatedTitle>headings</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author Role="aut"></Author>
+            </Authors>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>mmd</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="7657FB14-F557-4175-A9D7-8241D7770AE5">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="5136909D-39EF-471E-889C-0B638BB28A39">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="C0905E3D-C279-4512-93F8-00D157E040A5">
+            <SectionLayouts>
+                <Type ID="7657FB14-F557-4175-A9D7-8241D7770AE5">5D34BE92-B675-457B-98B9-38EF00709E70</Type>
+                <Type ID="70772891-2B01-4F8E-8C2E-38484F5CEC00">23D2FBA1-7326-4006-BBD5-211C9D3A506D</Type>
+                <Type ID="5136909D-39EF-471E-889C-0B638BB28A39">23D2FBA1-7326-4006-BBD5-211C9D3A506D</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <mmd>C0905E3D-C279-4512-93F8-00D157E040A5</mmd>
+    </LastUsedFormats>
+</CompileSettings>

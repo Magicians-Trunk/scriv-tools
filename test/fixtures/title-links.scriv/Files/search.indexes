@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="A5000000-0000-4000-8000-000000000006">
+            <Title>Newline Target</Title>
+            <Text>Newline text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000003">
+            <Title>Suffixed Target</Title>
+            <Text>Suffixed text.</Text>
+        </Document>
+        <Document ID="CE649EEC-B31B-4879-82C2-61B233B6995E">
+            <Title>Links</Title>
+            <Text>To Plain Target: other words
+To Prefixed Target: other words
+To Suffixed Target: other words
+To Both Target: other words
+To Counted Target: other words
+To Newline Target: other words
+To Uppercase Target: other words
+To Untitled Target: other words
+Named Plain Target: Plain Target
+Named Prefixed Target: Prefixed Target
+Named Suffixed Target: Suffixed Target
+Named Both Target: Both Target
+Named Counted Target: Counted Target
+Named Newline Target: Newline Target
+Named Uppercase Target: Uppercase Target
+Named Untitled Target: Untitled Target
+Not compiled: other words</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000007">
+            <Title>Uppercase Target</Title>
+            <Text>Uppercase text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000004">
+            <Title>Both Target</Title>
+            <Text>Both text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000001">
+            <Title>Plain Target</Title>
+            <Text>Plain text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000008">
+            <Title>Untitled Target</Title>
+            <Text>Untitled text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000005">
+            <Title>Counted Target</Title>
+            <Text>Counted text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000002">
+            <Title>Prefixed Target</Title>
+            <Text>Prefixed text.</Text>
+        </Document>
+        <Document ID="A5000000-0000-4000-8000-000000000099">
+            <Title>Prefixed Elsewhere</Title>
+            <Text>Not compiled.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

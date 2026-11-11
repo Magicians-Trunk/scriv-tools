@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="A422E3B0-B4D0-43F0-B231-161C70BC41A6" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="MacBook-Pro-2" Author="" Modified="2026-11-01 21:10:43 -0500" ModID="AF7447A7-B8BE-4EDB-8B52-A491765610BC">
+    <Binder>
+        <BinderItem UUID="54BD443B-FDCA-4C73-9679-A884A57E09E6" Type="DraftFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="CE649EEC-B31B-4879-82C2-61B233B6995E" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Links</Title>
+                    <MetaData>
+                        <SectionType>84FC0188-FC01-4C11-833A-16866ACC1F78</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000001" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Plain Target</Title>
+                    <MetaData>
+                        <SectionType>84FC0188-FC01-4C11-833A-16866ACC1F78</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000002" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Prefixed Target</Title>
+                    <MetaData>
+                        <SectionType>C3B1836B-0136-4D79-A78D-A22D6666F4A0</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000003" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Suffixed Target</Title>
+                    <MetaData>
+                        <SectionType>BB3F243C-ED5D-4A69-B062-F13D502F593C</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000004" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Both Target</Title>
+                    <MetaData>
+                        <SectionType>831C4505-9F46-4591-9A05-F362638CC6D6</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000005" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Counted Target</Title>
+                    <MetaData>
+                        <SectionType>3EC347F2-E1BD-44F0-8510-5605337F213D</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000006" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Newline Target</Title>
+                    <MetaData>
+                        <SectionType>506CA545-B112-4133-9BD1-62A2B4779923</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000007" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Uppercase Target</Title>
+                    <MetaData>
+                        <SectionType>4B059C9C-DA3B-4635-8917-443B83F7239E</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000008" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Untitled Target</Title>
+                    <MetaData>
+                        <SectionType>3EAE9B86-238F-46B9-9041-1E446D3000B1</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A5000000-0000-4000-8000-000000000099" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Prefixed Elsewhere</Title>
+                    <MetaData>
+                        <SectionType>C3B1836B-0136-4D79-A78D-A22D6666F4A0</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F7F83D60-67F9-4376-8809-BDA40812DE26" Type="ResearchFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="4F10738F-C495-497B-A9CA-54E763702CE1" Type="TrashFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5DA9FF7E-F81A-4813-83F4-5AE8A46533B1" Color="0.112547 0.112547 0.112547">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="E933D95D-EE24-4548-8C22-46372BCB0B42" Color="0.190666 0.172707 0.216531">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">Heading</Type>
+            <Type ID="0AC65ACC-AF13-41C3-B22D-161220936660">Sub-Heading</Type>
+            <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">Section</Type>
+            <Type ID="84FC0188-FC01-4C11-833A-16866ACC1F78">Plain</Type>
+            <Type ID="C3B1836B-0136-4D79-A78D-A22D6666F4A0">Prefixed</Type>
+            <Type ID="BB3F243C-ED5D-4A69-B062-F13D502F593C">Suffixed</Type>
+            <Type ID="831C4505-9F46-4591-9A05-F362638CC6D6">Both</Type>
+            <Type ID="3EC347F2-E1BD-44F0-8510-5605337F213D">Counted</Type>
+            <Type ID="506CA545-B112-4133-9BD1-62A2B4779923">Newline</Type>
+            <Type ID="4B059C9C-DA3B-4635-8917-443B83F7239E">Uppercase</Type>
+            <Type ID="3EAE9B86-238F-46B9-9041-1E446D3000B1">Untitled</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>C6B39E90-02BC-4B4B-AFC7-77CE685FD644</Type>
+            </Folders>
+            <Containers>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Containers>
+            <Files>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Red</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Yellow</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Green</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Blue</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-10-31 01:13:02 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-11-02 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-11-01 21:09:50 -0500"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2026-11-01 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

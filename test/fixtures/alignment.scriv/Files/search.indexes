@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="1A20041D-9822-4472-ACE4-98D60C941F12">
+            <Title>Three R C L over L</Title>
+            <Text>H1
+H2
+H3
+a1
+a2
+a3
+b1
+b2
+b3
+</Text>
+        </Document>
+        <Document ID="D11526E7-B082-41A3-8388-7A16C13AF373">
+            <Title>Three L C R over L</Title>
+            <Text>H1
+H2
+H3
+a1
+a2
+a3
+b1
+b2
+b3
+</Text>
+        </Document>
+        <Document ID="DD274947-1376-4636-BEFA-87284C44E782">
+            <Title>Merged L over L L</Title>
+            <Text>Wide
+l1
+r1
+</Text>
+        </Document>
+        <Document ID="568E478D-C61C-4803-8335-BB941E0FAC61">
+            <Title>One L over C</Title>
+            <Text>H
+a
+b
+</Text>
+        </Document>
+        <Document ID="1EACC626-B38E-4492-8736-B291E448BC9B">
+            <Title>Empty and spaced</Title>
+            <Text>H1
+H2
+H3
+a1
+
+
+b1
+two  sp
+x y
+</Text>
+        </Document>
+        <Document ID="765A7EB9-6A02-45A7-B37B-8937A45C58AD">
+            <Title>Two R over L</Title>
+            <Text>H1
+H2
+a1
+a2
+b1
+b2
+</Text>
+        </Document>
+        <Document ID="440D15C5-33F9-4781-A770-47DD6700DC65">
+            <Title>One L over R</Title>
+            <Text>H
+a
+b
+</Text>
+        </Document>
+        <Document ID="A3C3BB0E-CFC2-4DC5-ADB3-DD5EEE6D21E3">
+            <Title>Merged C over L L</Title>
+            <Text>Wide
+l1
+r1
+l2
+r2
+</Text>
+        </Document>
+        <Document ID="4B71C907-1C2F-4D0D-B55E-DA27D20EF6E0">
+            <Title>One C over L</Title>
+            <Text>H
+a
+b
+</Text>
+        </Document>
+        <Document ID="0FF93880-406F-4C44-A52D-BBF663EAB93D">
+            <Title>Three R R R over L</Title>
+            <Text>H1
+H2
+H3
+a1
+a2
+a3
+</Text>
+        </Document>
+        <Document ID="AAC04975-E539-4A0E-8F7F-F5763C07167D">
+            <Title>Two C over L</Title>
+            <Text>H1
+H2
+a1
+a2
+b1
+b2
+</Text>
+        </Document>
+        <Document ID="4A39AE3C-B7FE-492C-B4AE-8E518381F602">
+            <Title>Alignment</Title>
+        </Document>
+        <Document ID="6D406086-0754-4853-AB3D-CFAD1EECD21D">
+            <Title>Mixed body</Title>
+            <Text>H1
+H2
+a1
+a2
+b1
+b2
+c1
+c2
+</Text>
+        </Document>
+        <Document ID="E1F5F265-D1A2-4F2F-9575-37CDF50D93E5">
+            <Title>One R over L</Title>
+            <Text>H
+a
+b
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

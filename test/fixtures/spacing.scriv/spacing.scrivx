@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="7A96415E-6023-4BDD-8A9D-EAA973096E3C" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="MacBook-Pro-2" Author="" Modified="2026-10-31 06:53:42 -0400" ModID="2BD30E37-3077-498C-9684-CC42A6CEFB69">
+    <Binder>
+        <BinderItem UUID="54BD443B-FDCA-4C73-9679-A884A57E09E6" Type="DraftFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="B0C02728-F4E8-4D5A-BEC5-9B5866A8888A" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Chapter without text</Title>
+                    <MetaData>
+                        <SectionType>9178EFC5-0F04-488D-B3C5-8EA687FBDF50</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="AA126751-9896-4C7F-95F3-2E6F207911A6" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>After the empty chapter</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1324C0C0-B78A-4D8A-8E8C-3831D8CDCB96" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Chapter with text</Title>
+                    <MetaData>
+                        <SectionType>9178EFC5-0F04-488D-B3C5-8EA687FBDF50</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="74B7534C-0859-4693-9E7F-7D21A43CC161" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>After the chapter</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="FA9998D3-8DD1-4764-BFA2-7BA93EC17D9D" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Returning after a footnote</Title>
+                    <MetaData>
+                        <SectionType>2581D0C8-F960-4D6A-A609-AC30487F78CC</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E734D1C3-EA34-4BAF-9467-7DC939904298" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Ends with a note</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0A2C4430-5A78-44B8-BDED-1343D6302937" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Returning after a note and a line break</Title>
+                    <MetaData>
+                        <SectionType>2581D0C8-F960-4D6A-A609-AC30487F78CC</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="53018DAC-471F-46A4-B727-1B9FDFFB9775" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Ends with a note, then a paragraph break</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="EDFD37D4-B940-4A63-BE27-35B1A800F634" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Returning after a list</Title>
+                    <MetaData>
+                        <SectionType>2581D0C8-F960-4D6A-A609-AC30487F78CC</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="7EB1DB2C-3C02-4A3C-A99A-D0ED7D79BC2C" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Ends with a list</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="CD1841E8-8370-4ED1-BEEC-7DB86A72450E" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>Children filtered out</Title>
+                    <MetaData>
+                        <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="199E2966-608E-462C-AFFA-6F961B5AB5B2" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Filtered one</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6CEFEE9B-9489-47FE-A99A-70BD81C52A76" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                            <Title>Filtered two</Title>
+                            <MetaData>
+                                <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D4D3388C-0DE4-40EF-9A2B-67C7FAA77E3E" Type="Text" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+                    <Title>After the filtered</Title>
+                    <MetaData>
+                        <SectionType>64191A31-EE8F-4C77-998C-42437C4280A3</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F7F83D60-67F9-4376-8809-BDA40812DE26" Type="ResearchFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="4F10738F-C495-497B-A9CA-54E763702CE1" Type="TrashFolder" Created="2026-10-31 01:13:04 -0400" Modified="2026-10-31 01:13:04 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="5DA9FF7E-F81A-4813-83F4-5AE8A46533B1" Color="0.112547 0.112547 0.112547">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="E933D95D-EE24-4548-8C22-46372BCB0B42" Color="0.190666 0.172707 0.216531">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">Heading</Type>
+            <Type ID="0AC65ACC-AF13-41C3-B22D-161220936660">Sub-Heading</Type>
+            <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">Section</Type>
+            <Type ID="64191A31-EE8F-4C77-998C-42437C4280A3">Plain</Type>
+            <Type ID="9178EFC5-0F04-488D-B3C5-8EA687FBDF50">Chapter</Type>
+            <Type ID="2581D0C8-F960-4D6A-A609-AC30487F78CC">Returning</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>C6B39E90-02BC-4B4B-AFC7-77CE685FD644</Type>
+            </Folders>
+            <Containers>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Containers>
+            <Files>
+                <Type>812CD63D-A184-4DBE-8E52-B9F11991C4BF</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Red</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Yellow</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Green</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Blue</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-10-31 01:13:02 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-11-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-10-31 06:53:10 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2026-10-31 01:13:02 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

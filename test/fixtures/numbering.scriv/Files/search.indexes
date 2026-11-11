@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="8D6CC5F5-573B-4DDB-A8E9-005B2C2D4B0A">
+            <Title>Ch C</Title>
+            <Text>C &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="8962FEF9-27E1-4491-A86D-051AEFF6C154">
+            <Title>Sec B2</Title>
+            <Text>B2 has no tag</Text>
+        </Document>
+        <Document ID="B37B609C-B9F1-4B94-A286-7796439AB0B4">
+            <Title>Part One</Title>
+        </Document>
+        <Document ID="DCC8C175-8494-492E-B7FE-790BA180B755">
+            <Title>Loose</Title>
+            <Text>Loose &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="BD134E79-A558-473B-9F92-16CFEA228CE7">
+            <Title>Ch D</Title>
+            <Text>D &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="33249EC1-FDA4-4E97-935C-285550752060">
+            <Title>Sec B1</Title>
+            <Text>B1 &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="69B11E99-B3F9-4702-99F8-095B58087B9C">
+            <Title>Sec B3</Title>
+            <Text>B3 &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="4748C65C-60CD-4AF0-A1DB-0DE6B3436ECC">
+            <Title>Ch A</Title>
+            <Text>A &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="FE827952-8395-4339-B482-12E292178866">
+            <Title>Ch B</Title>
+            <Text>B &lt;$hn&gt; again &lt;$hn&gt;</Text>
+        </Document>
+        <Document ID="871E7505-BD5B-417A-9AC5-8092E0EF2331">
+            <Title>Part Two</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

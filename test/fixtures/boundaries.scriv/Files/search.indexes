@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="7872EE1C-A0ED-463A-A916-86458124D385">
+            <Title>Three</Title>
+            <Text>three</Text>
+        </Document>
+        <Document ID="0AA64C66-F27A-4CDC-8801-075DDDB3EFE6">
+            <Title>Two</Title>
+            <Text>two</Text>
+        </Document>
+        <Document ID="9E663C67-1920-44A4-9B34-2A34D99022A2">
+            <Title>Four Folder</Title>
+        </Document>
+        <Document ID="4A15B627-61DE-4741-87D5-064D10753FB3">
+            <Title>Alpha Folder</Title>
+        </Document>
+        <Document ID="C8B536BE-51BB-4D99-B93E-5DBA43A9EFA7">
+            <Title>Five Folder</Title>
+        </Document>
+        <Document ID="ED69FE83-D707-488E-B93C-F969832E83AE">
+            <Title>Alpha One</Title>
+            <Text>Alpha body</Text>
+        </Document>
+        <Document ID="F2FB1769-3AAA-416D-A223-57CE14881FBE">
+            <Title>Six</Title>
+            <Text>six</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

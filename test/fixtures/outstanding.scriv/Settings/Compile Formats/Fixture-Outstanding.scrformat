@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileFormat Name="Fixture Outstanding" ID="F2000000-0000-4000-8000-000000000001">
+    <SupportedTypes>
+        <Type>mmd</Type>
+    </SupportedTypes>
+    <SectionLayouts>
+        <Layout Name="Plain" ID="E2000000-0000-4000-8000-000000000001">
+            <Include Titles="Yes" Text="Yes"/>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Heading" ID="E2000000-0000-4000-8000-000000000002">
+            <Include Titles="Yes"/>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Metadata" ID="E2000000-0000-4000-8000-000000000003">
+            <Include Titles="Yes" MetaData="Yes" Text="Yes"/>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Title Prefix" ID="E2000000-0000-4000-8000-000000000004">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <Prefix>Chapter &lt;$n:chapter&gt;: </Prefix>
+                <Suffix> (end)</Suffix>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Two Hashes" ID="E2000000-0000-4000-8000-000000000005">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <MMDHashCount>2</MMDHashCount>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="No Hashes" ID="E2000000-0000-4000-8000-000000000006">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <MMDHashCount>0</MMDHashCount>
+                <Prefix>[</Prefix>
+                <Suffix>]</Suffix>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Uppercase" ID="E2000000-0000-4000-8000-000000000007">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <TitleCase>Uppercase</TitleCase>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Run In" ID="E2000000-0000-4000-8000-000000000008">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <RunInHead>Yes</RunInHead>
+                <Suffix>. </Suffix>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Hashes Inside" ID="E2000000-0000-4000-8000-000000000009">
+            <Include Titles="Yes" Text="Yes"/>
+            <Titles>
+                <Prefix>&gt; </Prefix>
+                <Suffix HashesInside="Yes"> &lt;</Suffix>
+            </Titles>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Page Break" ID="E2000000-0000-4000-8000-000000000010">
+            <Include Titles="Yes" Text="Yes"/>
+            <Separators UseDefault="No">
+                <Before Type="PageBreak"/>
+                <Between Type="PageBreak"/>
+                <AfterOverride Use="No" Type="Single"/>
+            </Separators>
+        </Layout>
+        <Layout Name="Custom Break" ID="E2000000-0000-4000-8000-000000000011">
+            <Include Titles="Yes" Text="Yes"/>
+            <Separators UseDefault="No">
+                <Before Type="Custom">@ Before @</Before>
+                <Between Type="Custom">@ Between @</Between>
+                <AfterOverride Use="No" Type="Single"/>
+            </Separators>
+        </Layout>
+        <Layout Name="After Override" ID="E2000000-0000-4000-8000-000000000012">
+            <Include Titles="Yes" Text="Yes"/>
+            <Separators UseDefault="No">
+                <Before Type="Single"/>
+                <Between Type="Single"/>
+                <AfterOverride Use="Yes" Type="PageBreak"/>
+            </Separators>
+        </Layout>
+        <Layout Name="Padding" ID="E2000000-0000-4000-8000-000000000013">
+            <Include Titles="Yes" Text="Yes"/>
+            <PagePadding>2</PagePadding>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Upper Words" ID="E2000000-0000-4000-8000-000000000014">
+            <Include Titles="Yes" Text="Yes"/>
+            <UppercasedFirstWords>2</UppercasedFirstWords>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Placement" ID="E2000000-0000-4000-8000-000000000015">
+            <Include Titles="Yes" Text="Yes"/>
+            <Prefix AfterTitle="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u33318 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u38658 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{lower-alpha\}.}{\leveltext\leveltemplateid102\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [prefix after title]\
+}]]></Prefix>
+            <Suffix AfterSubdocs="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u33318 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u38658 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{lower-alpha\}.}{\leveltext\leveltemplateid102\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+[suffix after subdocuments]}]]></Suffix>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+        <Layout Name="Blank Lines" ID="E2000000-0000-4000-8000-000000000016">
+            <Include Titles="Yes" Text="Yes"/>
+            <BlankLineSeparator SkipStyles="Yes">* * *</BlankLineSeparator>
+            <Separators UseDefault="Yes"/>
+        </Layout>
+    </SectionLayouts>
+    <SeparatorSettings>
+        <FolderSeparators>
+            <Before Type="Double"/>
+            <Between Type="Double"/>
+            <AfterOverride Use="No" Type="Single"/>
+        </FolderSeparators>
+        <TextSeparators>
+            <Before Type="Double"/>
+            <Between Type="Double"/>
+            <AfterOverride Use="No" Type="Single"/>
+        </TextSeparators>
+        <Font Size="14.7" Override="No">ArialMT</Font>
+    </SeparatorSettings>
+    <Styles>
+        <Style Name="Addition" ID="C1D2E3F4-0000-4000-8000-000000000001" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[{++]]></Prefix>
+            <Suffix><![CDATA[++}]]></Suffix>
+        </Style>
+        <Style Name="Deletion" ID="C1D2E3F4-0000-4000-8000-000000000002" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[{--]]></Prefix>
+            <Suffix><![CDATA[--}]]></Suffix>
+        </Style>
+        <Style Name="Highlight" ID="C1D2E3F4-0000-4000-8000-000000000003" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[{==]]></Prefix>
+            <Suffix><![CDATA[==}]]></Suffix>
+        </Style>
+        <Style Name="Block Quote" ID="C1D2E3F4-0000-4000-8000-000000000004" Type="Para">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+        </Style>
+        <Style Name="Code Block" ID="C1D2E3F4-0000-4000-8000-000000000005" Type="Para+Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+        </Style>
+        <Style Name="Caption" ID="C1D2E3F4-0000-4000-8000-000000000006" Type="Para">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+        </Style>
+        <Style Name="Code Span" ID="C1D2E3F4-0000-4000-8000-000000000007" Type="Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+        </Style>
+        <Style Name="Heading 2" ID="C1D2E3F4-0000-4000-8000-000000000010" Type="Para+Char">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+            <Prefix><![CDATA[## ]]></Prefix>
+        </Style>
+        <Style Name="Delete Me" ID="C1D2E3F4-0000-4000-8000-000000000011" Type="Para">
+            <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+\pard\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+            <DeleteText>Yes</DeleteText>
+        </Style>
+    </Styles>
+    <Layout>
+        <Scriptwriting>
+            <PFAsDualDialogue>No</PFAsDualDialogue>
+            <MoreAndContd Enabled="No">
+                <MoreText><![CDATA[]]></MoreText>
+                <ContdText><![CDATA[]]></ContdText>
+            </MoreAndContd>
+            <Elements/>
+        </Scriptwriting>
+    </Layout>
+    <Transformations>
+        <RemoveSmartPunctuation>Yes</RemoveSmartPunctuation>
+        <PlainTextConversion State="Off">Para</PlainTextConversion>
+        <OutlineIndent State="Off">18.0</OutlineIndent>
+    </Transformations>
+    <Tables>
+        <ConvertToImages MaxWidth="600.0">No</ConvertToImages>
+    </Tables>
+    <FootnotesAndComments>
+        <Footnotes>
+            <Font Size="12.0" Override="No">Helvetica</Font>
+            <DividerStyle>Default</DividerStyle>
+            <FootnoteStyle>Arabic</FootnoteStyle>
+            <EndnoteStyle>Arabic</EndnoteStyle>
+            <Numbering>Continuous</Numbering>
+            <EndnotesArrangement>
+                <Placement>End</Placement>
+                <SectionGrouping>
+                    <Font Size="12.0">Helvetica</Font>
+                </SectionGrouping>
+            </EndnotesArrangement>
+            <AvoidWidowsAndOrphans>Yes</AvoidWidowsAndOrphans>
+            <CanSplitAcrossPages>Yes</CanSplitAcrossPages>
+            <KeepAtBottomOfPage>Yes</KeepAtBottomOfPage>
+            <CenterSingleLineFootnotes>No</CenterSingleLineFootnotes>
+            <InlinePlainText/>
+        </Footnotes>
+        <Comments>
+            <AnnotationsRTFType>Comments</AnnotationsRTFType>
+        </Comments>
+    </FootnotesAndComments>
+    <PageSettings>
+        <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+        <Margins Units="CM" RespectPrinterBounds="Yes">
+            <Top>0.0</Top>
+            <Bottom>0.0</Bottom>
+            <Left>0.0</Left>
+            <Right>0.0</Right>
+        </Margins>
+        <HeadersAndFooters>
+            <HeaderFont Size="12.0">Helvetica</HeaderFont>
+            <FooterFont Size="12.0">Helvetica</FooterFont>
+            <FirstRegularPage>-1</FirstRegularPage>
+            <StandardHeader/>
+            <StandardFooter/>
+            <FirstPagesHeader/>
+            <FirstPagesFooter/>
+            <RectoHeader/>
+            <RectoFooter/>
+            <NewSectionHeader/>
+            <NewSectionFooter/>
+            <BackMatterHeader/>
+            <BackMatterFooter/>
+        </HeadersAndFooters>
+    </PageSettings>
+    <PrintPDF>
+        <InternalLinkColor>0.0 0.0 0.998199</InternalLinkColor>
+    </PrintPDF>
+    <RTF>
+        <Columns Location="FirstPage" Number="2" TwipsBetween="360"/>
+    </RTF>
+    <ScriptFormats>
+        <SummaryFont Size="12.0">.AppleSystemUIFont</SummaryFont>
+        <ScriptNoteFont Size="12.0">.AppleSystemUIFont</ScriptNoteFont>
+    </ScriptFormats>
+    <HTML>
+        <UseCenteredBodyTable Width="600">No</UseCenteredBodyTable>
+    </HTML>
+    <PlainText>
+        <Extension></Extension>
+    </PlainText>
+    <MMD>
+        <MetaData>
+            <Value IsProjectMetaDataPlaceholder="Yes"/>
+        </MetaData>
+        <BlockQuoteStyleID>C1D2E3F4-0000-4000-8000-000000000004</BlockQuoteStyleID>
+        <CodeBlockStyleID>C1D2E3F4-0000-4000-8000-000000000005</CodeBlockStyleID>
+        <CodeSpanID>C1D2E3F4-0000-4000-8000-000000000007</CodeSpanID>
+        <CaptionStyleID>C1D2E3F4-0000-4000-8000-000000000006</CaptionStyleID>
+        <AddClosingHashesToTitles>Yes</AddClosingHashesToTitles>
+        <LaTeXDocumentClass>Memoir</LaTeXDocumentClass>
+    </MMD>
+    <EBookSettings>
+        <BaseFormat><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></BaseFormat>
+        <CSSStylesFromDirectFormatting>Yes</CSSStylesFromDirectFormatting>
+        <TablesAndLists>
+            <TableStyle>Basic</TableStyle>
+            <EpubListStyle>Basic</EpubListStyle>
+            <KindleListStyle>Basic</KindleListStyle>
+            <EpubBulletStyle>Basic</EpubBulletStyle>
+            <KindleBulletStyle>Basic</KindleBulletStyle>
+        </TablesAndLists>
+        <ScriptSettings HasScriptFormatting="No"><![CDATA[.scene-heading {text-align:left; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+.action {text-align:left; text-indent:0; margin: 12pt 0 0 0; font-family: monospace;}
+.character {text-align:center; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+.parenthetical {text-align:center; text-indent:0; margin: 0 0 0 0; font-family: monospace;}
+.dialogue {text-align:left; text-indent:0; margin: 0 20% 0 20%; font-family: monospace;}
+.transition {text-align:right; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform:uppercase; font-family: monospace;}]]></ScriptSettings>
+        <PandocSettings>
+            <Version>2</Version>
+        </PandocSettings>
+    </EBookSettings>
+    <PostProcessing Enabled="No" Type="Path"/>
+</CompileFormat>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="A8000000-0000-4000-8000-000000000001">
+            <Title>Split Vertically</Title>
+            <Text>Target.</Text>
+        </Document>
+        <Document ID="BEF61345-62A5-4EE1-A5A7-2D43949E9A15">
+            <Title>Without opening, caption</Title>
+            <Text>1. H use &lt;$custom:shortcut&gt; first.
+2. H use &lt;$custom:shortcut&gt;.
+3. H closes the split.</Text>
+        </Document>
+        <Document ID="36797F38-C071-4B16-99E8-CB007C23F846">
+            <Title>Without third</Title>
+            <Text>E opening paragraph.
+A caption.
+The buttons are:
+1. E use &lt;$custom:shortcut&gt; first.
+2. E use &lt;$custom:shortcut&gt;.</Text>
+        </Document>
+        <Document ID="A8000000-0000-4000-8000-000000000002">
+            <Title>Split Horizontally</Title>
+            <Text>Other.</Text>
+        </Document>
+        <Document ID="45CF4841-83D2-427D-ACFE-E14210EEF43B">
+            <Title>Without opening</Title>
+            <Text>A caption.
+The buttons are:
+1. B use &lt;$custom:shortcut&gt; first.
+2. B use &lt;$custom:shortcut&gt;.
+3. B closes the split.</Text>
+        </Document>
+        <Document ID="7AF2BA90-D5E0-4930-9A7D-693E0D1099F3">
+            <Title>Without caption style</Title>
+            <Text>D opening paragraph.
+A caption.
+The buttons are:
+1. D use &lt;$custom:shortcut&gt; first.
+2. D use &lt;$custom:shortcut&gt;.
+3. D closes the split.</Text>
+        </Document>
+        <Document ID="3019BB27-699D-4DCC-8954-73553D41F5A1">
+            <Title>Without first link</Title>
+            <Text>F opening paragraph.
+A caption.
+The buttons are:
+2. F use &lt;$custom:shortcut&gt;.
+3. F closes the split.</Text>
+        </Document>
+        <Document ID="8DCF13AA-9E45-4BEA-9C4F-68DB56F4BBC6">
+            <Title>Without list style</Title>
+            <Text>G opening paragraph.
+A caption.
+The buttons are:
+1. G use &lt;$custom:shortcut&gt; first.
+2. G use &lt;$custom:shortcut&gt;.
+3. G closes the split.</Text>
+        </Document>
+        <Document ID="DFA29E73-A65B-4DC7-98B8-29A01AEA65E0">
+            <Title>Without caption</Title>
+            <Text>C opening paragraph.
+1. C use &lt;$custom:shortcut&gt; first.
+2. C use &lt;$custom:shortcut&gt;.
+3. C closes the split.</Text>
+        </Document>
+        <Document ID="C93F8E5C-3F79-41E6-B468-58B1B8FF9C0B">
+            <Title>Whole run</Title>
+            <Text>A opening paragraph.
+A caption.
+The buttons are:
+1. A use &lt;$custom:shortcut&gt; first.
+2. A use &lt;$custom:shortcut&gt;.
+3. A closes the split.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

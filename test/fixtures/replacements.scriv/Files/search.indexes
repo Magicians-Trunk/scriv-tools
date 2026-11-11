@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="914576A4-00E7-4734-9651-F35C8ACF97C9">
+            <Title>Colour Folder</Title>
+        </Document>
+        <Document ID="E48C9AA3-D2D1-4D17-8886-E29F33B1DCA3">
+            <Title>Colour Title</Title>
+            <Text>Colour colour COLOUR.
+Teh teh.
+skip this.
+&lt;&lt;em:word&gt;&gt; and &lt;&lt;em:two words&gt;&gt; and &lt;&lt;em:&gt;&gt;.
+alpha.
+10px and 3PX.
+%%proj
+“quoted”</Text>
+        </Document>
+        <Document ID="1DE83C88-FDF6-4AFD-890A-23D0AE9B993F">
+            <Text>alpha first line
+plain</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

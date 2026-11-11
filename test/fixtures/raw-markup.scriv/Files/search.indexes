@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="BFDC27C9-1A9E-46C7-827D-011B77915AB0">
+            <Title>Raw paragraph, custom field</Title>
+            <Text>before &lt;$custom:field&gt;
+raw &lt;$custom:field&gt; end
+after &lt;$custom:field&gt;</Text>
+        </Document>
+        <Document ID="0763E4F1-3F43-461F-9149-D572DFFB45CE">
+            <Title>Raw span, title</Title>
+            <Text>before raw &lt;$title&gt; end after &lt;$title&gt;</Text>
+        </Document>
+        <Document ID="68FC868A-7237-4E97-997A-EE6111CE7A1F">
+            <Title>Raw span, replacement</Title>
+            <Text>before raw SWAPME end after SWAPME</Text>
+        </Document>
+        <Document ID="5B063AC3-14D3-4735-875A-55C31E13C126">
+            <Title>Raw span, custom field</Title>
+            <Text>before raw &lt;$custom:field&gt; end after &lt;$custom:field&gt;</Text>
+        </Document>
+        <Document ID="E5B77616-1AAF-4662-A7E0-8CF1A3546485">
+            <Title>Raw span, counter</Title>
+            <Text>before raw &lt;$n&gt; end after &lt;$n&gt;</Text>
+        </Document>
+        <Document ID="C05735F9-2220-4D98-9480-C3D5D8204B6C">
+            <Title>Raw paragraph, counter</Title>
+            <Text>before &lt;$n&gt;
+raw &lt;$n&gt; end
+after &lt;$n&gt;</Text>
+        </Document>
+        <Document ID="8CB40000-5282-483A-B3C9-1C005E3EF1DE">
+            <Title>Raw paragraph, replacement</Title>
+            <Text>before SWAPME
+raw SWAPME end
+after SWAPME</Text>
+        </Document>
+        <Document ID="3668CFE7-C06F-481F-834A-8FF116EBD98A">
+            <Title>Raw paragraph, title</Title>
+            <Text>before &lt;$title&gt;
+raw &lt;$title&gt; end
+after &lt;$title&gt;</Text>
+        </Document>
+        <Document ID="B3F6E1FE-1EE8-461E-8E33-2EDAD0D57D25">
+            <Title>Raw paragraph, punctuation</Title>
+            <Text>before “it’s”
+raw “it’s” end
+after “it’s”</Text>
+        </Document>
+        <Document ID="97E68091-C45E-4124-9DB7-E1EA5A293061">
+            <Title>Raw span, punctuation</Title>
+            <Text>before raw “it’s” end after “it’s”</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

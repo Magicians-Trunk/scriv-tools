@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="7D3658CE-BE0E-4453-9F9F-AF23FF0DDC3A">
+            <Synopsis>Untitled synopsis</Synopsis>
+            <Text>Untitled body</Text>
+            <Notes>Untitled notes</Notes>
+        </Document>
+        <Document ID="B1AB06D9-1D69-48B8-AB48-D95BA2EB0CA5">
+            <Title>Chapter B</Title>
+            <Synopsis>Syn B1
+Syn B2</Synopsis>
+            <Text>Body B</Text>
+        </Document>
+        <Document ID="1F4C31A2-CC99-4213-81E5-C1A2EEB13D76">
+            <Title>Part One</Title>
+            <Synopsis>Part synopsis</Synopsis>
+            <Notes>Part notes</Notes>
+        </Document>
+        <Document ID="098C91D8-4AC2-4E7F-8FDD-9EF34C799793">
+            <Title>Chapter C</Title>
+            <Text>Body C</Text>
+            <Notes>It’s a note</Notes>
+        </Document>
+        <Document ID="F88F45AB-61BC-4E7E-9049-ACC43CCAFD3F">
+            <Title>Chapter E</Title>
+            <Text>Body E with no synopsis or notes</Text>
+        </Document>
+        <Document ID="03BE447D-1FA1-4B87-B7E6-6C1E83193265">
+            <Title>Chapter D</Title>
+            <Synopsis>Syn D</Synopsis>
+            <Text>Body D is left out</Text>
+        </Document>
+        <Document ID="9E6330DD-23FD-4CF0-AE8F-E99A65BF890C">
+            <Title>Chapter A</Title>
+            <Synopsis>Syn A</Synopsis>
+            <Text>Body A</Text>
+            <Notes>Note A one
+Note A two</Notes>
+        </Document>
+    </Documents>
+</SearchIndexes>

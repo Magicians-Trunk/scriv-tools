@@ -1,0 +1,157 @@
+<html>
+
+<head>
+<title>Raw Markup Fixture</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- NOTE: margin property = top-right-bottom-left -->
+<style type="text/css">
+
+	body {background-color: #e2e2e2}
+    
+    p.topLevelItemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 30px;
+    	}
+    	
+    p.folderTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 18px;
+    	}
+    
+    p.itemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	font-weight: bold;
+    	}
+    	
+    p.itemText {
+    	margin: 0px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    	
+    p.itemTextStart {
+    	margin: 30px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    
+    .page {border: 1px solid #c0c0c0; background: #fff}
+    
+    hr {
+        border: none;
+        height: 1px;
+        color: #d4d4d4;
+        background-color: #d4d4d4;
+      	}
+      	
+    hr.afterTitle {
+    	margin-top: -3px;
+    }
+      	
+    hr.afterText {
+    	margin-top: 30px;
+    }
+      	
+    ul {
+      	list-style-type: none;
+      	padding-left: 30px;
+      	}
+      	
+</style>
+
+</head>
+
+<body>
+
+<table border="0" width="100%" cellspacing="3">
+<tr>
+<td>
+
+<table class="page" width="100%" cellspacing="10" cellpadding="2">
+
+<!-- Top margin -->
+<!-- Not needed, because of the padding above titles. -->
+<!--<tr><td height="15px"></td></tr>-->
+
+<tr>
+
+<!-- 42 + 30 of list indent = 72 - one inch. -->
+<!-- Actually that ends up too much, so we do 25 + 30 = 55px. -->
+<td width="25px">
+
+<td valign="top">
+
+<ul>
+<li>
+<p class="topLevelItemTitle">Raw paragraph, custom field</p>
+<p class="itemText">before &lt;$custom:field&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">raw &lt;$custom:field&gt; end</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">after &lt;$custom:field&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw paragraph, title</p>
+<p class="itemText">before &lt;$title&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">raw &lt;$title&gt; end</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">after &lt;$title&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw paragraph, counter</p>
+<p class="itemText">before &lt;$n&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">raw &lt;$n&gt; end</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">after &lt;$n&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw paragraph, punctuation</p>
+<p class="itemText">before “it’s”</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">raw “it’s” end</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">after “it’s”</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw paragraph, replacement</p>
+<p class="itemText">before SWAPME</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">raw SWAPME end</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">after SWAPME</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw span, custom field</p>
+<p class="itemText">before raw &lt;$custom:field&gt; end after &lt;$custom:field&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw span, title</p>
+<p class="itemText">before raw &lt;$title&gt; end after &lt;$title&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw span, counter</p>
+<p class="itemText">before raw &lt;$n&gt; end after &lt;$n&gt;</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw span, punctuation</p>
+<p class="itemText">before raw “it’s” end after “it’s”</p>
+</li>
+<li>
+<p class="topLevelItemTitle">Raw span, replacement</p>
+<p class="itemText">before raw SWAPME end after SWAPME</p>
+</li>
+</ul>
+
+</td>
+<td width="55px">
+</td>
+</tr>
+
+<!-- Bottom margin -->
+<tr><td height="15px"></td></tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

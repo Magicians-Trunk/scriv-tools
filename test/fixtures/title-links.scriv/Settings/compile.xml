@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>E933D95D-EE24-4548-8C22-46372BCB0B42</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <ConvertLinksToMMD>Yes</ConvertLinksToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Title Links Fixture</ProjectTitle>
+            <ProjectAbbreviatedTitle>Title Links Fixture</ProjectAbbreviatedTitle>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>mmd</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="F5000000-0000-4000-8000-000000000001">
+            <SectionLayouts>
+                <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">BF9BA7F4-69EE-4E02-BF31-785F39EE0B24</Type>
+                <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">BF9BA7F4-69EE-4E02-BF31-785F39EE0B24</Type>
+                <Type ID="84FC0188-FC01-4C11-833A-16866ACC1F78">BF9BA7F4-69EE-4E02-BF31-785F39EE0B24</Type>
+                <Type ID="C3B1836B-0136-4D79-A78D-A22D6666F4A0">DE6DE3BA-1643-48FD-8362-82D31DD887C1</Type>
+                <Type ID="BB3F243C-ED5D-4A69-B062-F13D502F593C">776F19F9-2503-4491-B45E-003FEF41B84B</Type>
+                <Type ID="831C4505-9F46-4591-9A05-F362638CC6D6">B8C444DC-611D-48FB-8BAE-B5E4A4D03AF0</Type>
+                <Type ID="3EC347F2-E1BD-44F0-8510-5605337F213D">EABC69FB-34BA-4DB6-9DB2-59370C17082C</Type>
+                <Type ID="506CA545-B112-4133-9BD1-62A2B4779923">61618414-E60E-442A-81ED-87F34762D4C7</Type>
+                <Type ID="4B059C9C-DA3B-4635-8917-443B83F7239E">E76F3BB9-A883-4AFB-86D9-0AC6818B92FC</Type>
+                <Type ID="3EAE9B86-238F-46B9-9041-1E446D3000B1">8BAFFB95-BE9F-47F4-913F-803119645680</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="F5000000-0000-4000-8000-000000000002">
+            <SectionLayouts>
+                <Type ID="C6B39E90-02BC-4B4B-AFC7-77CE685FD644">D8CC9774-8651-484B-B629-E181DBD2F80D</Type>
+                <Type ID="812CD63D-A184-4DBE-8E52-B9F11991C4BF">D8CC9774-8651-484B-B629-E181DBD2F80D</Type>
+                <Type ID="84FC0188-FC01-4C11-833A-16866ACC1F78">D8CC9774-8651-484B-B629-E181DBD2F80D</Type>
+                <Type ID="C3B1836B-0136-4D79-A78D-A22D6666F4A0">EC8FE505-2A0E-45A3-BB85-D91BC054F025</Type>
+                <Type ID="BB3F243C-ED5D-4A69-B062-F13D502F593C">9927AF81-650A-439E-85F8-5D1EE77D9F2D</Type>
+                <Type ID="831C4505-9F46-4591-9A05-F362638CC6D6">378CB3F6-8AB5-46E8-ABA9-07631ECCA234</Type>
+                <Type ID="3EC347F2-E1BD-44F0-8510-5605337F213D">3A13691D-9729-4EEE-B96B-E826ACA65D1B</Type>
+                <Type ID="506CA545-B112-4133-9BD1-62A2B4779923">36B99E1E-E802-4ED9-A95B-663B501793A7</Type>
+                <Type ID="4B059C9C-DA3B-4635-8917-443B83F7239E">343E7BAD-0B27-4CE4-9A28-FA9D3202E0F6</Type>
+                <Type ID="3EAE9B86-238F-46B9-9041-1E446D3000B1">FBC12007-1ADA-4381-ADCA-30D2121A6F0C</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <mmd>F5000000-0000-4000-8000-000000000002</mmd>
+    </LastUsedFormats>
+</CompileSettings>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="0E0C0DF7-4D4D-4FCB-9A2A-BE002E99C2E4">
+            <Title>One Column</Title>
+            <Text>Text
+Only
+x
+y
+More</Text>
+        </Document>
+        <Document ID="FD3E1367-9C2C-46AF-BBF8-F1806149FC9B">
+            <Title>More Tables</Title>
+        </Document>
+        <Document ID="22677A1C-96F4-4B5A-AA44-D6002DFC0FAC">
+            <Title>Four Columns</Title>
+            <Text>Text
+H1
+H2
+H3
+H4
+a1
+a2
+a3
+a4
+b1
+b2
+b3
+b4
+More</Text>
+        </Document>
+        <Document ID="110D3F83-64DC-4F66-BBC0-9665C0BBDD47">
+            <Title>Header Merge</Title>
+            <Text>Text
+Wide
+Third
+r1
+r2
+r3
+s1
+s2
+s3
+More</Text>
+        </Document>
+        <Document ID="59C5CE63-D250-4564-9D74-5CF917CEE613">
+            <Title>Caption Above</Title>
+            <Text>Text
+Caption first
+Solo
+Table
+1
+2
+More</Text>
+        </Document>
+        <Document ID="FF265D5D-0340-4508-AF63-74E910447E45">
+            <Title>Body Merge</Title>
+            <Text>Text
+Head A
+Head B
+Spans both
+c1
+c2
+More</Text>
+        </Document>
+        <Document ID="971DD2C9-DD83-4E0A-ACB8-A3E539A23163">
+            <Title>Alone</Title>
+            <Text>Solo
+Table
+1
+2
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

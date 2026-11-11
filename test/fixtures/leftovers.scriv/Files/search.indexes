@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="F66FD363-4F65-4C9F-99B0-17A6B01A4D2E">
+            <Title>After the deleted</Title>
+            <Text>last text</Text>
+        </Document>
+        <Document ID="788829BC-4F3D-49F5-B899-77B9E0C88E50">
+            <Title>Deleted between the same style</Title>
+            <Text>Use the File//OPML or MindMap File... command.</Text>
+        </Document>
+        <Document ID="A2072FBA-E8E7-4D66-AF80-E07B465EF6CE">
+            <Title>Two link paragraphs</Title>
+            <Text>1. B use &lt;$custom:shortcut&gt; first.
+2. B use &lt;$custom:shortcut&gt;.</Text>
+        </Document>
+        <Document ID="C4C0F1C2-45B4-4353-AF28-E085748EFA03">
+            <Title>Minitoc after a list</Title>
+            <Text>Minitoc after a list text</Text>
+        </Document>
+        <Document ID="A7000000-0000-4000-8000-000000000001">
+            <Title>Split Vertically</Title>
+            <Text>Target.</Text>
+        </Document>
+        <Document ID="C774FAA3-CCF2-417C-BED4-3AC291874EDB">
+            <Title>Ends with line separators in a list</Title>
+            <Text>before
+	1.	Select the entry.
+	2.	Click the button.  The default shows in bold.</Text>
+        </Document>
+        <Document ID="11FB3010-D085-4180-BCA8-937E51456DD1">
+            <Title>Ends with line separators in a list, before a plain suffix</Title>
+            <Text>before
+	1.	Select the entry.
+	2.	Click the button.  The default shows in bold.</Text>
+        </Document>
+        <Document ID="7B059054-B98A-46B1-A8B8-ECC08403A2E2">
+            <Title>Kept between the same style</Title>
+            <Text>Use the File//OPML or MindMap File... command.</Text>
+        </Document>
+        <Document ID="F4570CA3-3C49-4397-AE67-FF3DF4807B33">
+            <Title>Only deleted text</Title>
+            <Text>All of this is deleted.</Text>
+        </Document>
+        <Document ID="3A10213D-0593-4656-8491-5C90D5B4402B">
+            <Title>Only deleted text, then a paragraph break</Title>
+            <Text>All of this is deleted.
+</Text>
+        </Document>
+        <Document ID="AA5F2BF0-5308-4126-9A24-74C9603BD8AD">
+            <Title>Minitoc after text</Title>
+            <Text>Minitoc after text text</Text>
+        </Document>
+        <Document ID="22E2543C-E70D-4B84-A9EF-4FF18C435FAF">
+            <Title>Deleted, then kept</Title>
+            <Text>Deleted.
+Kept.</Text>
+        </Document>
+        <Document ID="BA52A661-A5A6-4B9A-8C2A-F3387394805C">
+            <Title>Minitoc after a footnote and a full stop</Title>
+            <Text>Minitoc after a footnote and a full stop text</Text>
+        </Document>
+        <Document ID="9928BB9A-4A04-42FE-8280-CCE8EDB875EA">
+            <Title>Two deleted paragraphs</Title>
+            <Text>Deleted one.
+Deleted two.</Text>
+        </Document>
+        <Document ID="EDC16DE5-9599-48A3-BA7A-7A8E0CAE3702">
+            <Title>Returning after line separators</Title>
+            <Text>Returning after line separators text</Text>
+        </Document>
+        <Document ID="6418E5B3-1B3E-4693-8817-8423C0855032">
+            <Title>Minitoc after a footnote</Title>
+            <Text>Minitoc after a footnote text</Text>
+        </Document>
+        <Document ID="A7000000-0000-4000-8000-000000000002">
+            <Title>Split Horizontally</Title>
+            <Text>Other.</Text>
+        </Document>
+        <Document ID="1A3716A7-DA9B-4DAD-8302-126FC1A07320">
+            <Title>Two link paragraphs in a paragraph style</Title>
+            <Text>1. C use &lt;$custom:shortcut&gt; first.
+2. C use &lt;$custom:shortcut&gt;.</Text>
+        </Document>
+        <Document ID="07713521-D756-4A36-9C85-856CE27EC512">
+            <Title>As the manual has it</Title>
+            <Text>D opening paragraph.
+A caption.
+The buttons are:
+1. D use &lt;$custom:shortcut&gt; first.
+2. D use &lt;$custom:shortcut&gt;.
+3. D closes the split.</Text>
+        </Document>
+        <Document ID="4DC6290D-6374-4A91-B97F-9C431D602446">
+            <Title>Deleted between two styles</Title>
+            <Text>Use the File//OPML or MindMap File... command.</Text>
+        </Document>
+        <Document ID="01028B41-EA4E-4B1B-AF6F-1976F043C72A">
+            <Title>Link in a paragraph style</Title>
+            <Text>A use &lt;$custom:shortcut&gt;.</Text>
+        </Document>
+        <Document ID="EC17AB89-F684-413D-83FB-E0A7DDF04F26">
+            <Title>Ends with text</Title>
+            <Text>ends with text</Text>
+        </Document>
+        <Document ID="61EE1C56-99A6-4188-B294-217E8398F643">
+            <Title>Same style twice, nothing between</Title>
+            <Text>Use the File//OPML File... command.</Text>
+        </Document>
+        <Document ID="CF35B1FC-F353-4BC3-B421-647B0C6B6AD9">
+            <Title>Minitoc after line separators</Title>
+            <Text>Minitoc after line separators text</Text>
+        </Document>
+        <Document ID="A56D5094-B6D3-43EB-9C1D-86A717B01429">
+            <Title>Ends with a note</Title>
+            <Text>ends with a notethe note </Text>
+        </Document>
+        <Document ID="3B0AE128-EB61-4566-AFE7-A5D30CA1C552">
+            <Title>Ends with a list</Title>
+            <Text>before
+	1.	one
+	2.	two
+</Text>
+        </Document>
+        <Document ID="A02084C5-B0A5-4F38-8BBB-9B92F60DCEF0">
+            <Title>Ends with a note, then a full stop</Title>
+            <Text>ends with a notethe note.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

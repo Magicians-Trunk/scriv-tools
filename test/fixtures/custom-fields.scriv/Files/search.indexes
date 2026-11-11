@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="CDA32694-1CA1-45B2-9E2E-E82EEBB84234">
+            <Title>Each field</Title>
+            <Text>field by ID: &lt;$custom:field&gt;
+field by title: &lt;$custom:Field&gt;
+note by ID: &lt;$custom:note&gt;
+note by title: &lt;$custom:Note&gt;
+colour by ID: &lt;$custom:colour&gt;
+colour by title: &lt;$custom:Colour Name&gt;
+shortcut by ID: &lt;$custom:shortcut&gt;
+shortcut by title: &lt;$custom:MacShortcut&gt;
+Upper by ID: &lt;$custom:Upper&gt;
+Upper by title: &lt;$custom:Upper&gt;</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

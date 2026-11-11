@@ -1,0 +1,131 @@
+/**
+ * Scrivener's documented placeholders, lowercased, beyond the families matched by
+ * `DOCUMENTED_FAMILY`.  The CLI stops on one of these that it cannot evaluate; any other
+ * `<$name>` is not a placeholder, and Scrivener leaves it as written.  Project template variables
+ * (`<$template_projectName>`) are filled in when a project is created, not when it compiles.
+ */
+const DOCUMENTED = new Set([
+  'abbr_projectname',
+  'abbr_projecttitle',
+  'abbr_title',
+  'ahn',
+  'aon',
+  'author',
+  'blank_page',
+  'cc',
+  'char_name',
+  'compilegroup',
+  'createddate',
+  'createdtime',
+  'custom',
+  'date',
+  'day',
+  'descendantcount',
+  'doccount',
+  'doctarget',
+  'draftname',
+  'drafttarget',
+  'ebook_start',
+  'firstname',
+  'forename',
+  'fullcreateddate',
+  'fullcreatedtime',
+  'fulldate',
+  'fullmodifieddate',
+  'fullmodifiedtime',
+  'fullname',
+  'fulltime',
+  'hn',
+  'htmlref',
+  'img',
+  'include',
+  'initial',
+  'keywords',
+  'l',
+  'label',
+  'lastname',
+  'level',
+  'linecount',
+  'linkid',
+  'longcreateddate',
+  'longcreatedtime',
+  'longdate',
+  'longday',
+  'longmodifieddate',
+  'longmodifiedtime',
+  'longmonth',
+  'longtime',
+  'longweekday',
+  'mediaplaybacktime',
+  'mediumcreateddate',
+  'mediumcreatedtime',
+  'mediumdate',
+  'mediummodifieddate',
+  'mediummodifiedtime',
+  'mediumtime',
+  'modifieddate',
+  'modifiedtime',
+  'month',
+  'n',
+  'name',
+  'nav_end',
+  'nav_start',
+  'np',
+  'numericalmonth',
+  'p',
+  'pagecount',
+  'pagegroupparenttitle',
+  'pagegrouptitle',
+  'parentposition',
+  'parenttitle',
+  'parenttitle_no_spaces',
+  'position',
+  'projectname',
+  'projecttitle',
+  'r',
+  'revision',
+  'rst',
+  'sessiontarget',
+  'shortcreateddate',
+  'shortcreatedtime',
+  'shortdate',
+  'shortday',
+  'shortmodifieddate',
+  'shortmodifiedtime',
+  'shortmonth',
+  'shortnumericalmonth',
+  'shorttime',
+  'shortweekday',
+  'sn',
+  'status',
+  'subdoccount',
+  'surname',
+  'synopsis',
+  't',
+  'time',
+  'title',
+  'title_no_spaces',
+  'toc',
+  'username',
+  'w',
+  'wc',
+  'weekday',
+  'year',
+]);
+const DOCUMENTED_FAMILY = /^(hn_level\d+|level\d+_title(_no_spaces)?|rst_.*)$/i;
+
+/**
+ * Documented placeholders that a MultiMarkdown compile leaves as written: the page number, which
+ * only paged formats have, and the media player's time, which only the editor fills in.
+ */
+const NOT_IN_MULTIMARKDOWN = new Set(['p', 'mediaplaybacktime']);
+
+/**
+ * Whether a placeholder is one Scrivener documents that means something in MultiMarkdown, so one
+ * the library should evaluate; Scrivener leaves anything else as written.
+ */
+export function isDocumented(name: string): boolean {
+  const lower = name.toLowerCase();
+  if (NOT_IN_MULTIMARKDOWN.has(lower)) return false;
+  return DOCUMENTED.has(lower) || DOCUMENTED_FAMILY.test(name);
+}

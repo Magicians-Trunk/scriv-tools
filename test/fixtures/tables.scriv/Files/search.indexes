@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="27082CA5-9E19-4AC4-9AB4-2D73E8A834A5">
+            <Title>Tables</Title>
+        </Document>
+        <Document ID="ACE3D1B4-70AE-4A9F-B896-C81779E03F41">
+            <Title>Simple Table</Title>
+            <Text>Before the table
+Name
+Value
+Notes
+alpha
+x = 1
+
+beta
+2
+two  spaces
+After the table</Text>
+        </Document>
+        <Document ID="7ED59AE4-255A-4726-9051-B4BE5995D5A2">
+            <Title>Merged Table</Title>
+            <Text>Intro
+Merged header
+left
+right
+Table caption
+Closing line</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

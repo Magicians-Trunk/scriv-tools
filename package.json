@@ -1,0 +1,67 @@
+{
+  "name": "scriv-tools",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@11.13.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "scriv-tools": "./dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "description": "Reads Scrivener 3 projects into TypeScript structures, and compiles them to MultiMarkdown as Scrivener does.",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "browser": {
+    "./dist/local-files.js": "./dist/local-files-browser.js"
+  },
+  "publishConfig": {
+    "exports": {
+      ".": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      }
+    },
+    "browser": {
+      "./dist/local-files.js": "./dist/local-files-browser.js"
+    }
+  },
+  "scripts": {
+    "format": "vp fmt",
+    "prepare": "vp run build",
+    "prepack": "vp run build",
+    "slop:check": "aislop ci"
+  },
+  "dependencies": {
+    "@noble/hashes": "1.8.0",
+    "citty": "0.2.2",
+    "fast-xml-parser": "5.11.2",
+    "fflate": "0.8.3",
+    "image-size": "2.0.4",
+    "mdast-util-from-markdown": "2.1.0",
+    "mdast-util-gfm-footnote": "2.1.0",
+    "mdast-util-gfm-table": "2.0.0",
+    "mdast-util-to-markdown": "2.2.1",
+    "micromark-extension-gfm-footnote": "2.1.0",
+    "micromark-extension-gfm-table": "2.1.2",
+    "pathe": "2.0.3"
+  },
+  "devDependencies": {
+    "@magicians/config": "github:Magicians-Trunk/config#477ef4144eb0462a65f5f68a707d51a020026034",
+    "@types/mdast": "4.0.4",
+    "@types/node": "24.19.1",
+    "@vitest/coverage-v8": "5.0.5",
+    "aislop": "0.18.1",
+    "typescript": "6.0.3",
+    "vite-plus": "1.4.0",
+    "vitest": "5.0.5"
+  }
+}

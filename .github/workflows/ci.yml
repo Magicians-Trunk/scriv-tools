@@ -1,0 +1,51 @@
+name: CI
+
+# A draft PR gets the cheap checks only.  The full run (tests and build) happens when the
+# orchestrator marks a PR ready for review, on every push while it stays ready, and on main.  There is
+# deliberately no manual or label trigger: only the draft flag decides.
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review, converted_to_draft]
+  push:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: ${{ matrix.stage }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        stage: ${{ fromJSON(github.event.pull_request.draft && '["lint","typecheck"]' || '["lint","typecheck","test","build"]') }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: voidzero-dev/setup-vp@v1.22.0
+        with:
+          node-version-file: .node-version
+          cache: true
+      - name: Format check
+        if: matrix.stage == 'lint'
+        run: vp fmt --check
+      - run: vp run ${{ matrix.stage }}
+      - name: Slop check
+        if: matrix.stage == 'lint'
+        run: vp run slop:check
+
+  secrets:
+    name: Secret scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: gitleaks (full history)
+        run: >-
+          docker run --rm -v "$PWD:/repo" ghcr.io/gitleaks/gitleaks:v8.30.1
+          git /repo --redact --verbose --exit-code 1

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="FB3F99B8-AC21-456B-8819-6D8DB0630B6C">
+            <Title>Chapter One</Title>
+            <Text>It’s a “quoted” line — with two  spaces…
+Second paragraph.</Text>
+        </Document>
+        <Document ID="8F0B7019-952D-47C9-B376-8832704BB27B">
+            <Title>Left Out</Title>
+            <Text>Not compiled.</Text>
+        </Document>
+        <Document ID="4BFF688F-2470-41C6-BF34-0C589CCDA2F3">
+            <Title>Part Two</Title>
+        </Document>
+        <Document ID="6DB58EAC-159E-439B-A14A-3750DCEE7331">
+            <Text>Untitled first line
+Run make check now.</Text>
+        </Document>
+        <Document ID="748715DB-0C0B-4E81-959A-9E6F79D91BFC">
+            <Title>Deepest</Title>
+            <Text>Bottom.</Text>
+        </Document>
+        <Document ID="AE1C5F94-14D2-4F38-A1E1-2620809F0027">
+            <Title>Part One</Title>
+        </Document>
+        <Document ID="9ACFCC63-09ED-42F1-B74B-050CDAD64B71">
+            <Title>Deep Folder</Title>
+        </Document>
+        <Document ID="E239D268-5153-4A79-AAB7-04C2196038B1">
+            <Title>Section A</Title>
+            <Text>Deep text.</Text>
+        </Document>
+        <Document ID="48447BAA-FC9B-46E9-AED9-A5930020DA70">
+            <Title>Chapter Two</Title>
+            <Text>Before the list
+	•	First item
+	•	Second item
+After the list
+	1.	One
+	2.	Two
+A quoted line
+End.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

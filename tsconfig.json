@@ -1,0 +1,4 @@
+{
+  "extends": "@magicians/config/tsconfig.json",
+  "include": ["src", "test/*.ts", "scripts", "*.ts"]
+}

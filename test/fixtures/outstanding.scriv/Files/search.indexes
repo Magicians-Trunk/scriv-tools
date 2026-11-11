@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="A0000000-0000-4000-8000-000000000123">
+            <Title>hn_level1 deep</Title>
+            <Text>hn_level1 &lt;$hn_level1&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000116">
+            <Title>hn_0 one</Title>
+            <Text>hn_0 &lt;$hn_0&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000109">
+            <Title>Numbering aon</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000159">
+            <Title>Page Break child</Title>
+            <Text>Child of Page Break</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000166">
+            <Title>Placement</Title>
+            <Text>Body of Placement</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000102">
+            <Title>Binder dates</Title>
+            <Text>created &lt;$createdDate&gt; | &lt;$shortCreatedDate&gt; | &lt;$mediumCreatedDate&gt; | &lt;$longCreatedDate&gt; | &lt;$fullCreatedDate&gt;
+times &lt;$createdTime&gt; | &lt;$mediumCreatedTime&gt; | modified &lt;$modifiedDate&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000145">
+            <Title>Tables</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000138">
+            <Title>Comments kept</Title>
+            <Text>Some commented words here.</Text>
+            <Comments>the comment text</Comments>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000152">
+            <Title>Title Prefix</Title>
+            <Text>Body of Title Prefix</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000124">
+            <Title>hn_level1 two</Title>
+            <Text>hn_level1 &lt;$hn_level1&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000117">
+            <Title>hn_0 deep</Title>
+            <Text>hn_0 &lt;$hn_0&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000167">
+            <Title>Placement child</Title>
+            <Text>Child of Placement</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000110">
+            <Title>aon one</Title>
+            <Text>aon &lt;$aon&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000153">
+            <Title>Two Hashes</Title>
+            <Text>Body of Two Hashes</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000146">
+            <Title>Vertical merge</Title>
+            <Text>H1
+H2
+tall
+r1
+r2
+</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000103">
+            <Title>Numbering ahn</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000139">
+            <Title>Preserve formatting</Title>
+            <Text>Raw *kept as typed* done.</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000160">
+            <Title>Custom Break</Title>
+            <Text>Body of Custom Break</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000118">
+            <Title>hn_0 two</Title>
+            <Text>hn_0 &lt;$hn_0&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000125">
+            <Title>hn_level1 plain</Title>
+            <Text>no tag</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000168">
+            <Title>Blank Lines</Title>
+            <Text>Body of Blank Lines
+
+after a blank line</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000111">
+            <Title>aon deep</Title>
+            <Text>aon &lt;$aon&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000154">
+            <Title>No Hashes</Title>
+            <Text>Body of No Hashes</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000147">
+            <Title>Two paragraph cell</Title>
+            <Text>H1
+H2
+line one
+line two
+b
+</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000104">
+            <Title>ahn one</Title>
+            <Text>ahn &lt;$ahn&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000161">
+            <Title>Custom Break child</Title>
+            <Text>Child of Custom Break</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000133">
+            <Title>Text</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000126">
+            <Title>hn_level1 three</Title>
+            <Text>hn_level1 &lt;$hn_level1&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000119">
+            <Title>hn_0 plain</Title>
+            <Text>no tag</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000140">
+            <Title>Struck text</Title>
+            <Text>keep gone kept</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000169">
+            <Title>Metadata labelled</Title>
+            <Text>Has label and status</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000112">
+            <Title>aon two</Title>
+            <Text>aon &lt;$aon&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000155">
+            <Title>Uppercase</Title>
+            <Text>Body of Uppercase</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000148">
+            <Title>Justified cell</Title>
+            <Text>H1
+H2
+j
+b
+</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000105">
+            <Title>ahn deep</Title>
+            <Text>ahn &lt;$ahn&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000162">
+            <Title>After Override</Title>
+            <Text>Body of After Override</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000141">
+            <Title>Links</Title>
+            <Text>Web example and doc the stats.</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000134">
+            <Title>Nested lists</Title>
+            <Text>Before
+	•	one
+	◦	one inner
+	◦	two inner
+	•	two
+	1.	first
+	a.	first inner
+	2.	second
+After</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000106">
+            <Title>ahn two</Title>
+            <Text>ahn &lt;$ahn&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000149">
+            <Title>Uneven rows</Title>
+            <Text>H1
+H2
+H3
+a
+b
+</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000120">
+            <Title>hn_0 three</Title>
+            <Text>hn_0 &lt;$hn_0&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000156">
+            <Title>Run In</Title>
+            <Text>Body of Run In</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000113">
+            <Title>aon plain</Title>
+            <Text>no tag</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000163">
+            <Title>After Override child</Title>
+            <Text>Child of After Override</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000170">
+            <Title>Title page</Title>
+            <Text>Front matter page</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000142">
+            <Title>Heading on list item</Title>
+            <Text>Intro
+	•	Streaming Service
+After</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000135">
+            <Title>Line breaks</Title>
+            <Text>one two three
+	•	item continued
+After</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000001">
+            <Title>Placeholders</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000121">
+            <Title>Numbering hn_level1</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000157">
+            <Title>Hashes Inside</Title>
+            <Text>Body of Hashes Inside</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000114">
+            <Title>aon three</Title>
+            <Text>aon &lt;$aon&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000107">
+            <Title>ahn plain</Title>
+            <Text>no tag</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000164">
+            <Title>Padding</Title>
+            <Text>Body of Padding</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000150">
+            <Title>Layouts</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000143">
+            <Title>Deleted style</Title>
+            <Text>Kept line
+This line is deleted
+Also kept</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000136">
+            <Title>Footnotes kept</Title>
+            <Text>Text with a notethe footnote and more.</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000002">
+            <Title>Stats</Title>
+            <Text>words &lt;$wc&gt; &lt;$wc100&gt; chars &lt;$cc&gt; &lt;$cc100&gt; docs &lt;$doccount&gt; link &lt;$linkID&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000122">
+            <Title>hn_level1 one</Title>
+            <Text>hn_level1 &lt;$hn_level1&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000115">
+            <Title>Numbering hn_0</Title>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000108">
+            <Title>ahn three</Title>
+            <Text>ahn &lt;$ahn&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000158">
+            <Title>Page Break</Title>
+            <Text>Body of Page Break</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000165">
+            <Title>Upper Words</Title>
+            <Text>Body of Upper Words</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000101">
+            <Title>Dates now</Title>
+            <Text>year &lt;$year&gt; | iso &lt;$date:yyyy-MM-dd&gt;
+short &lt;$shortdate&gt; | medium &lt;$mediumdate&gt; | long &lt;$longdate&gt; | full &lt;$fulldate&gt;
+month &lt;$month&gt; &lt;$shortmonth&gt; &lt;$numericalmonth&gt; &lt;$shortnumericalmonth&gt; | day &lt;$day&gt; &lt;$longday&gt; | weekday &lt;$weekday&gt; &lt;$shortweekday&gt;</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000137">
+            <Title>Annotations kept</Title>
+            <Text>Text an annotation more.</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000151">
+            <Title>Metadata</Title>
+            <Text>Body of Metadata</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000144">
+            <Title>Filtered out</Title>
+            <Text>This document has the Blue label.</Text>
+        </Document>
+        <Document ID="A0000000-0000-4000-8000-000000000003">
+            <Title>Front Matter</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
